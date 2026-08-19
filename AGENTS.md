@@ -184,6 +184,8 @@ used only for player absorption and intentionally ignores real-room geometry.
 
 ## Latest verification
 
+- Android launcher icon refresh replaces the manifest-backed `@mipmap/ic_spatial_launcher` resource with the generated 1024 x 1024 SpatialSurvivor artwork, retains the source artwork under `branding/`, and passes `assembleDebug`.
+
 - Modal-upgrade restoration reinstates experience-full combat suspension and a
   root-mounted 1.5 m eye-height AttachmentPanel. Only modal presentation,
   tracking, UI input and level-up effects continue while paused; monster,
