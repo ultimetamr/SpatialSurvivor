@@ -1,0 +1,6 @@
+<resources>
+    <color name="rarity_common">#FFF4F6FA</color>
+    <color name="rarity_rare">#FF53A7FF</color>
+    <color name="rarity_epic">#FFC276FF</color>
+    <color name="rarity_legendary">#FFFFC94A</color>
+</resources>
